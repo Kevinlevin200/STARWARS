@@ -174,6 +174,10 @@ star-wars-search-engine/
 ### Herramientas de Desarrollo
 - Vs code
 
+## Maquetacion
+
+![image](https://github.com/user-attachments/assets/d7abaf09-ff39-4258-a6ea-a0afcdf54a70)
+
 ## 👨‍💻 Autores
 
 -Kevin Santiago Rivero Rueda
